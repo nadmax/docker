@@ -1,5 +1,4 @@
-# dock-help
-![Docker Logo](https://github.com/nadmax/dock-help/blob/master/assets/docker.png)  
+# Docker
 **This document is the complete version with each Docker feature explained.**  
 **See the list of features below if you want to see just one that interests you.**
 
